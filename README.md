@@ -1,1 +1,1 @@
-<img width="960" alt="ReactCalculate" src="https://user-images.githubusercontent.com/102438965/174889228-c95d5069-028b-4f9b-815d-115758c1aac7.png">
+<img width="908" alt="CalcReact" src="https://user-images.githubusercontent.com/102438965/174890310-bb4095bc-791e-453e-97f8-0e0547a211a2.png">
